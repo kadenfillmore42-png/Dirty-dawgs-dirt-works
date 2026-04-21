@@ -1,0 +1,9 @@
+{
+  "name": "dirty-dawgs-dirt-works-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dirty Dawgs Dirt Works website and quote request backend",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

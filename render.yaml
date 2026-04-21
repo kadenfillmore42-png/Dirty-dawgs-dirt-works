@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: dirty-dawgs-dirt-works
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
